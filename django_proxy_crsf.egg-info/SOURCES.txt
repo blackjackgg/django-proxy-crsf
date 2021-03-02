@@ -1,10 +1,12 @@
+MANIFEST.in
 README.md
+setup.cfg
 setup.py
-django_proxy.egg-info/PKG-INFO
-django_proxy.egg-info/SOURCES.txt
-django_proxy.egg-info/dependency_links.txt
-django_proxy.egg-info/requires.txt
-django_proxy.egg-info/top_level.txt
+django_proxy_crsf.egg-info/PKG-INFO
+django_proxy_crsf.egg-info/SOURCES.txt
+django_proxy_crsf.egg-info/dependency_links.txt
+django_proxy_crsf.egg-info/requires.txt
+django_proxy_crsf.egg-info/top_level.txt
 proxy/__init__.py
 proxy/models.py
 proxy/tests.py

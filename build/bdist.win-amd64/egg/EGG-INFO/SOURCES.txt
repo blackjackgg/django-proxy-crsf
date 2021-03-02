@@ -1,0 +1,17 @@
+README.md
+setup.cfg
+setup.py
+django_proxy_crsf.egg-info/PKG-INFO
+django_proxy_crsf.egg-info/SOURCES.txt
+django_proxy_crsf.egg-info/dependency_links.txt
+django_proxy_crsf.egg-info/requires.txt
+django_proxy_crsf.egg-info/top_level.txt
+proxy/__init__.py
+proxy/models.py
+proxy/tests.py
+proxy/urls.py
+proxy/views.py
+proxy/__pycache__/__init__.cpython-36.pyc
+proxy/__pycache__/models.cpython-36.pyc
+proxy/__pycache__/tests.cpython-36.pyc
+proxy/__pycache__/views.cpython-36.pyc

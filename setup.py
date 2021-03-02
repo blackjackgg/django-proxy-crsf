@@ -5,16 +5,20 @@ from setuptools import setup
 import re
 import os
 import sys
+from os import path
 
 
-name = 'django-proxy'
+name = 'django-proxy-crsf'
 package = 'proxy'
 description = 'A simple HTTP proxy service as a Django app'
-url = 'https://github.com/mjumbewu/django-proxy'
-author = 'Mjumbe Wawatu Ukweli'
-author_email = 'mjumbewu@gmail.com'
+url = 'https://github.com/blackjackgg/django-proxy-crsf'
+author = 'blackjack0v0'
+author_email = 'yihongwy1@163.com'
 license = 'BSD'
 install_requires = ['requests']
+
+def read(*parts):
+    return open(path.join(path.dirname(__file__), *parts)).read()
 
 
 def get_version(package):
