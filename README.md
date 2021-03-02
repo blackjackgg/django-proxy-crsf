@@ -1,8 +1,6 @@
 Django HTTP Proxy 
 =================
 **Simple HTTP proxy service as a Django app.**
-
-**Author:** Mjumbe Wawatu Ukweli, [Follow me on Twitter][1].
 django 代理服务，格式为 url('proxy/(?P<http>\d+)/(?P<url>.*)', proxy_view),  http为1时表示是http协议  0为https协议
 加入了crsf，避免跨域问题
 
