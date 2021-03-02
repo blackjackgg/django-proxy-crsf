@@ -30,6 +30,7 @@ urlpatterns = patterns(
                 url('proxy/(?P<http>\d+)/(?P<url>.*)', proxy_view),
 	...
 )
+```
 
 License
 =======
