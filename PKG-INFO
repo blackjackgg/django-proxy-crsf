@@ -1,0 +1,22 @@
+Metadata-Version: 1.1
+Name: django-proxy-crsf
+Version: 1.2.1
+Summary: A simple HTTP proxy service as a Django app
+Home-page: https://github.com/blackjackgg/django-proxy-crsf
+Author: blackjack
+Author-email: yihongwy1@163.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Framework :: Django
